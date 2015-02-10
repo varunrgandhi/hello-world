@@ -6,7 +6,7 @@
 
 [Link to the html sample page](http://htmlpreview.github.io/?https://github.com/varunrgandhi/hello-world/blob/master/testPage.html)
 
-[Link to the QUNIT tests](http://htmlpreview.github.io/?https://github.com/varunrgandhi/hello-world/blob/master/test/testRunner.html)
+[Link to the QUNIT tests](https://cdn.rawgit.com/varunrgandhi/hello-world/master/test/testRunner.html)
 
 **asdf**
 
